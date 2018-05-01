@@ -1,0 +1,21 @@
+# By default, ignore all files
+*
+
+# Share this file
+!.gitignore
+
+# Explicitly allow YAML files
+!*.yaml
+
+# Allow the following subfolders
+!automations
+!custom_components
+!packages
+!scenes
+!scripts
+!themes
+
+# Ignore Sensitive Files
+secrets.yaml
+known_devices.yaml
+entity_registry.yaml
