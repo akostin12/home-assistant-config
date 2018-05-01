@@ -4,6 +4,9 @@
 # Share this file
 !.gitignore
 
+# Share Markdown files
+!*.md
+
 # Explicitly allow YAML files
 !*.yaml
 
