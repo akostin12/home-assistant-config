@@ -6,7 +6,7 @@
   radius: 100
   icon: mdi:home
 
-- name: Teledyne
+- name: !secret ian_work_name
   latitude: !secret ian_work_lat
   longitude: !secret ian_work_long
   radius: 150
@@ -18,19 +18,19 @@
   radius: 100
   icon: mdi:weight
 
-- name: UAH
-  latitude: !secret uah_lat
-  longitude: !secret uah_long
+- name: !secret school_name
+  latitude: !secret school_lat
+  longitude: !secret school_long
   radius: 300
   icon: mdi:school
 
-- name: Integraph
+- name: !secret richard_work_name
   latitude: !secret richard_work_lat
   longitude: !secret richard_work_long
   radius: 150
   icon: mdi:briefcase
 
-- name: Space Camp
+- name: !secret aimee_work_name
   latitude: !secret aimee_work_lat
   longitude: !secret aimee_work_long
   radius: 250
