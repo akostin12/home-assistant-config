@@ -5,8 +5,9 @@
 # Share this file
 !.gitignore
 
-# Share Markdown files
+# Share Markdown files & images
 !*.md
+!images/*.png
 
 # Explicitly allow YAML files
 !*.yaml
@@ -24,6 +25,8 @@
 # Allow the following subfolders
 !automations
 !custom_components
+!docs
+!images
 !packages
 !scenes
 !scripts
