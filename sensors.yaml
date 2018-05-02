@@ -60,9 +60,6 @@
 - platform: wink
   entity_namespace: wink
 
-# Nest
-- platform: nest
-  entity_namespace: nest
 
 ################################################################################
 # Alarm Clock
