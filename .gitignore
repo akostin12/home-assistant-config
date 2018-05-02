@@ -1,5 +1,6 @@
 # By default, ignore all files
 *
+# Eventually I will change this, but for now, I'll write in what I want to be shared.
 
 # Share this file
 !.gitignore
@@ -9,6 +10,16 @@
 
 # Explicitly allow YAML files
 !*.yaml
+
+# Any scripts that I may write
+!*.sh
+
+# Cloud9 Configuration
+!project.settings
+
+# Travis Configuration
+!.travis/travis.*
+!.travis.yml
 
 # Allow the following subfolders
 !automations
