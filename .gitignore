@@ -16,7 +16,7 @@
 !*.sh
 
 # Cloud9 Configuration
-!project.settings
+!.c9/project.settings
 
 # Travis Configuration
 !.travis/travis.*
