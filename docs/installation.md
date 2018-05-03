@@ -38,4 +38,4 @@ I keep all of my configurations backed up using the snapshot feature of hass.io 
 
 The entire purpose of making this configuration public is to share the knowledge and lessons that I have learned. Please feel free to use as much of the code here as you see fit to your own home, but don't expect it to work.
 
-![I Have no idea what I am doing](https://i.imgur.com/PJnrKU1.jpg)
+![I Have no idea what I am doing](images/ihavenoideawhatiamdoing.jpg)
